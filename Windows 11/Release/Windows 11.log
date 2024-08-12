@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\source\repos\Windows 11\Windows 11\Source.cpp(80,12): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+D:\source\repos\Windows 11\Windows 11\Source.cpp(145,12): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+  Generating code
+  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Windows 11.vcxproj -> D:\source\repos\Windows 11\Release\Windows 11.exe
